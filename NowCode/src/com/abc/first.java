@@ -7,15 +7,6 @@ public class first {
         System.out.println("abc");
         System.out.println("abc");
         System.out.println("abc");
-        System.out.println("abc");
-        System.out.println("abc");
-        System.out.println("abc");
-        System.out.println("abc");
-        System.out.println("abc");
-        System.out.println("abc");
-        System.out.println("abc");
-        System.out.println("abc");
-        System.out.println("abc");
 
     }
 }
